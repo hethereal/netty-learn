@@ -1,4 +1,4 @@
-package com.qiantangnotes.buffer;
+package com.qiantangnotes.nio.buffer;
 
 import org.springframework.core.io.ClassPathResource;
 

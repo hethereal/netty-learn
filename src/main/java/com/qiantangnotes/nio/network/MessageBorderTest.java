@@ -1,6 +1,6 @@
-package com.qiantangnotes.network;
+package com.qiantangnotes.nio.network;
 
-import com.qiantangnotes.buffer.ByteBufferExam;
+import com.qiantangnotes.nio.buffer.ByteBufferExam;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

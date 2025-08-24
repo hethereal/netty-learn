@@ -1,4 +1,4 @@
-package com.qiantangnotes.file;
+package com.qiantangnotes.nio.file;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

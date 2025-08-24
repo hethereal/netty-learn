@@ -1,4 +1,4 @@
-package com.qiantangnotes.buffer;
+package com.qiantangnotes.nio.buffer;
 
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
